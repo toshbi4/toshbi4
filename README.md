@@ -4,11 +4,19 @@
 - 🌱 **Bachelor specialization**: mechatronics and robotics. (ITMO University) 
 - 🌳 **Master specialization**: robotics and AI. (ITMO University) 
 
-<!--- - 🌱 I’m currently learning ... --->
-<!--- - 💞️ I’m looking to collaborate on ... --->
-<!--- - 📫 How to reach me ... --->
 
-<!---
-ToshbI4/ToshbI4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning and digital images processing projects:
+- [ML pet-projects](https://github.com/toshbi4/ml_pet_projects)
+- [Bees segmentation in the video](https://github.com/toshbi4/bees_segmentation)
+
+Robotics:
+- [c++ simulations in Argos3 simulator](https://github.com/toshbi4/argos3-examples)
+- [Python ROS labs](https://github.com/toshbi4/ITMORobSoft)
+
+Embedded:
+- [Some small contributions to nuttx](https://github.com/toshbi4/incubator-nuttx)
+- [CMSIS and libopencm3 stm32 examples](https://github.com/toshbi4/stm32examples)
+
+Telegram bots:
+- [Python bot for dormitory](https://github.com/toshbi4/dorm-bot)
+- [Python bot for Iot in the house](https://github.com/toshbi4/house_elf_bot)
