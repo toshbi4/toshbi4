@@ -7,6 +7,7 @@
 
 Machine Learning and digital images processing projects:
 - [ML pet-projects](https://github.com/toshbi4/ml_pet_projects)
+- [Image processing pet-projects](https://github.com/toshbi4/image_processing_pet_projects)
 - [Bees segmentation in the video](https://github.com/toshbi4/bees_segmentation)
 
 Robotics:
