@@ -13,6 +13,7 @@ Machine Learning and digital images processing projects:
 Robotics:
 - [c++ simulations in Argos3 simulator](https://github.com/toshbi4/argos3-examples)
 - [Python ROS labs](https://github.com/toshbi4/ITMORobSoft)
+- [Python Multiagent Pickup And Delivery problem realization with simple GUI](https://github.com/toshbi4/PythonMAPD)
 
 Embedded:
 - [Some small contributions to nuttx](https://github.com/toshbi4/incubator-nuttx)
