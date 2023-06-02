@@ -8,12 +8,15 @@
 Machine Learning and digital images processing projects:
 - [ML pet-projects](https://github.com/toshbi4/ml_pet_projects)
 - [Image processing pet-projects](https://github.com/toshbi4/image_processing_pet_projects)
-- [Bees segmentation in the video](https://github.com/toshbi4/bees_segmentation)
+- [Bees segmentation in the video and on images](https://github.com/toshbi4/bees_segmentation)
 
 Robotics:
 - [c++ simulations in Argos3 simulator](https://github.com/toshbi4/argos3-examples)
 - [Python ROS labs](https://github.com/toshbi4/ITMORobSoft)
-- [Python Multiagent Pickup And Delivery problem realization with simple GUI](https://github.com/toshbi4/PythonMAPD)
+
+PathPlanning Algorithms:
+- [GPU ST-A* realization + Server (LifeLong ST-A*) / Client (simulator).](https://github.com/toshbi4/gpu-st-astar)
+- [Parallel version of the CBS algorithm.](https://github.com/toshbi4/parallel-cbs)
 
 Embedded:
 - [Some small contributions to nuttx](https://github.com/toshbi4/incubator-nuttx)
@@ -21,4 +24,3 @@ Embedded:
 
 Telegram bots:
 - [Python bot for dormitory](https://github.com/toshbi4/dorm-bot)
-- [Python bot for Iot in the house](https://github.com/toshbi4/house_elf_bot)
