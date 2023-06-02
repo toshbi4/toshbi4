@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toshbi4
-- 👀 I’m interested in robotics, embedded programming, control algorithms and so on ...
+- 👀 I’m interested in robotics, embedded programming, control algorithms, ML, and etc ...
 
 - 🌱 **Bachelor specialization**: mechatronics and robotics. (ITMO University) 
 - 🌳 **Master specialization**: robotics and AI. (ITMO University) 
