@@ -20,7 +20,7 @@ PathPlanning Algorithms:
 
 Embedded:
 - [Some small contributions to nuttx](https://github.com/toshbi4/incubator-nuttx)
-- [CMSIS and libopencm3 stm32 examples](https://github.com/toshbi4/stm32examples)
+- [CMSIS, libopencm3, freeRTOS stm32 examples](https://github.com/toshbi4/stm32examples)
 
 Telegram bots:
 - [Python bot for dormitory](https://github.com/toshbi4/dorm-bot)
